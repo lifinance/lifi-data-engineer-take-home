@@ -1,0 +1,21 @@
+{
+  "name": "fastcommerce-data-generator",
+  "version": "1.0.0",
+  "description": "Sample data generator for FastCommerce data engineering challenge",
+  "main": "data_generator.js",
+  "scripts": {
+    "generate": "node data_generator.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "data",
+    "generator",
+    "ecommerce",
+    "challenge"
+  ],
+  "author": "FastCommerce Engineering Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

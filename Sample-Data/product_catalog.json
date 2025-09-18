@@ -1,0 +1,352 @@
+[
+  {
+    "product_id": "PROD-001",
+    "category": "Home",
+    "brand": "StyleCo",
+    "price": 248.06,
+    "launch_date": "2024-09-01T14:25:51.726Z"
+  },
+  {
+    "product_id": "PROD-002",
+    "category": "Sports",
+    "brand": "SportsPro",
+    "price": 243.82,
+    "launch_date": "2025-04-25T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-003",
+    "category": "Electronics",
+    "brand": "StyleCo",
+    "price": 258.95,
+    "launch_date": "2025-02-15T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-004",
+    "category": "Electronics",
+    "brand": "ReadMore",
+    "price": 163.94,
+    "launch_date": "2025-01-03T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-005",
+    "category": "Books",
+    "brand": "TechCorp",
+    "price": 160.19,
+    "launch_date": "2025-01-14T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-006",
+    "category": "Home",
+    "brand": "HomeGoods",
+    "price": 188.93,
+    "launch_date": "2024-12-16T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-007",
+    "category": "Electronics",
+    "brand": "StyleCo",
+    "price": 115.28,
+    "launch_date": "2025-05-12T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-008",
+    "category": "Books",
+    "brand": "TechCorp",
+    "price": 42.7,
+    "launch_date": "2024-11-03T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-009",
+    "category": "Books",
+    "brand": "HomeGoods",
+    "price": 164.35,
+    "launch_date": "2025-04-18T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-010",
+    "category": "Books",
+    "brand": "StyleCo",
+    "price": 239.27,
+    "launch_date": "2025-07-09T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-011",
+    "category": "Home",
+    "brand": "StyleCo",
+    "price": 35.22,
+    "launch_date": "2025-08-25T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-012",
+    "category": "Clothing",
+    "brand": "SportsPro",
+    "price": 165.75,
+    "launch_date": "2024-09-05T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-013",
+    "category": "Sports",
+    "brand": "HomeGoods",
+    "price": 111.4,
+    "launch_date": "2025-04-11T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-014",
+    "category": "Home",
+    "brand": "TechCorp",
+    "price": 126.73,
+    "launch_date": "2025-01-07T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-015",
+    "category": "Sports",
+    "brand": "ReadMore",
+    "price": 27.56,
+    "launch_date": "2024-10-13T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-016",
+    "category": "Sports",
+    "brand": "HomeGoods",
+    "price": 238.27,
+    "launch_date": "2025-06-28T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-017",
+    "category": "Books",
+    "brand": "ReadMore",
+    "price": 189.81,
+    "launch_date": "2025-03-03T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-018",
+    "category": "Electronics",
+    "brand": "SportsPro",
+    "price": 49.98,
+    "launch_date": "2025-02-08T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-019",
+    "category": "Clothing",
+    "brand": "TechCorp",
+    "price": 128.27,
+    "launch_date": "2025-07-29T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-020",
+    "category": "Electronics",
+    "brand": "SportsPro",
+    "price": 225.28,
+    "launch_date": "2025-06-20T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-021",
+    "category": "Home",
+    "brand": "HomeGoods",
+    "price": 196.78,
+    "launch_date": "2024-10-30T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-022",
+    "category": "Home",
+    "brand": "TechCorp",
+    "price": 164.13,
+    "launch_date": "2025-03-11T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-023",
+    "category": "Clothing",
+    "brand": "SportsPro",
+    "price": 287.39,
+    "launch_date": "2025-05-05T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-024",
+    "category": "Books",
+    "brand": "HomeGoods",
+    "price": 285.82,
+    "launch_date": "2024-09-29T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-025",
+    "category": "Electronics",
+    "brand": "StyleCo",
+    "price": 162.42,
+    "launch_date": "2024-09-14T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-026",
+    "category": "Clothing",
+    "brand": "SportsPro",
+    "price": 87.6,
+    "launch_date": "2024-12-21T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-027",
+    "category": "Books",
+    "brand": "StyleCo",
+    "price": 68.61,
+    "launch_date": "2025-03-03T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-028",
+    "category": "Books",
+    "brand": "ReadMore",
+    "price": 256.22,
+    "launch_date": "2024-11-13T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-029",
+    "category": "Sports",
+    "brand": "HomeGoods",
+    "price": 286.66,
+    "launch_date": "2024-09-09T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-030",
+    "category": "Electronics",
+    "brand": "ReadMore",
+    "price": 28.89,
+    "launch_date": "2024-10-09T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-031",
+    "category": "Books",
+    "brand": "StyleCo",
+    "price": 288.87,
+    "launch_date": "2024-12-15T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-032",
+    "category": "Electronics",
+    "brand": "ReadMore",
+    "price": 279.69,
+    "launch_date": "2024-12-29T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-033",
+    "category": "Home",
+    "brand": "HomeGoods",
+    "price": 229.36,
+    "launch_date": "2025-03-21T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-034",
+    "category": "Clothing",
+    "brand": "ReadMore",
+    "price": 20.96,
+    "launch_date": "2025-04-23T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-035",
+    "category": "Clothing",
+    "brand": "SportsPro",
+    "price": 183.9,
+    "launch_date": "2025-08-16T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-036",
+    "category": "Electronics",
+    "brand": "HomeGoods",
+    "price": 126.85,
+    "launch_date": "2025-08-16T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-037",
+    "category": "Home",
+    "brand": "ReadMore",
+    "price": 204.38,
+    "launch_date": "2025-01-22T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-038",
+    "category": "Books",
+    "brand": "ReadMore",
+    "price": 101.13,
+    "launch_date": "2025-06-02T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-039",
+    "category": "Sports",
+    "brand": "TechCorp",
+    "price": 233.78,
+    "launch_date": "2024-12-14T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-040",
+    "category": "Electronics",
+    "brand": "SportsPro",
+    "price": 247.44,
+    "launch_date": "2025-01-10T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-041",
+    "category": "Home",
+    "brand": "ReadMore",
+    "price": 173.82,
+    "launch_date": "2025-05-03T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-042",
+    "category": "Sports",
+    "brand": "SportsPro",
+    "price": 187,
+    "launch_date": "2025-07-13T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-043",
+    "category": "Sports",
+    "brand": "HomeGoods",
+    "price": 52.47,
+    "launch_date": "2025-03-31T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-044",
+    "category": "Home",
+    "brand": "HomeGoods",
+    "price": 155.05,
+    "launch_date": "2025-04-29T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-045",
+    "category": "Electronics",
+    "brand": "SportsPro",
+    "price": 124.7,
+    "launch_date": "2025-05-11T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-046",
+    "category": "Books",
+    "brand": "ReadMore",
+    "price": 252.49,
+    "launch_date": "2024-09-21T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-047",
+    "category": "Books",
+    "brand": "StyleCo",
+    "price": 56.8,
+    "launch_date": "2025-01-17T15:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-048",
+    "category": "Books",
+    "brand": "StyleCo",
+    "price": 268.98,
+    "launch_date": "2025-06-07T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-049",
+    "category": "Clothing",
+    "brand": "HomeGoods",
+    "price": 86.25,
+    "launch_date": "2025-04-22T14:25:51.731Z"
+  },
+  {
+    "product_id": "PROD-050",
+    "category": "Electronics",
+    "brand": "HomeGoods",
+    "price": 250.65,
+    "launch_date": "2025-06-15T14:25:51.731Z"
+  }
+]
